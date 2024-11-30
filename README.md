@@ -67,5 +67,5 @@
 این مرحله از استخراج کلمات کلیدی به بهبود دقت و مرتبط بودن پاسخ‌های تولیدشده توسط سیستم کمک می‌کند.
 
 لطفا جهت دانلود مدل ها به لینک زیر مراجعه نمایید:
-https://drive.google.com/drive/folders/1paaj0wZtTbcPjcaogyLQaZSh6jE-svQn
+https://drive.google.com/drive/folders/1paaj0wZtTbcPjcaogyLQaZSh6jE-svQn?usp=drive_link
 
